@@ -5,6 +5,7 @@ public class Main {
     }
 
     static void method() {
+        System.out.println("hello world");
         String[] massiv = {"Zeyne", "Abiba", "Adilbek"};
         for (String i : massiv) {
             System.out.println("I live you" + i);
